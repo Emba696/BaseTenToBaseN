@@ -1,5 +1,5 @@
 # BaseTenToBaseN
-Random project to convert base 10 numbers to integer or non integer representations in other bases because I was bored. It probably still has a few bugs in it.
+Random project to convert base ten numbers to integer or non integer representations in other bases because I was bored. It probably still has a few bugs in it.
 
 Example:
 
