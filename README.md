@@ -3,6 +3,7 @@ Random project to convert base ten numbers to integer or non integer representat
 
 Example:
 
+```
 Number base: 2.718281828459045235360287471352
 
 Enter 0 once you are done.
@@ -25,3 +26,4 @@ Output: -0.10212002012020200120201212011012020(1)
 
 Input : 0
 Output: 0.0
+```
